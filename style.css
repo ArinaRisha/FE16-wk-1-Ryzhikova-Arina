@@ -1,5 +1,7 @@
 @import url(awesome.css);
 
+@import url(pricing.css);
+
 .container {
     max-width: 1170px;
     margin: auto;
