@@ -83,16 +83,20 @@
     align-items: center;
 }
 .flex_item_1gb{
+    width: 340px;
     height: 40px;
     background-color: white;
     font-family: 'Open Sans', sans-serif;
     font-style: normal;
     font-size: 14px;
-    font-weight: 400;
+    font-weight: normal;
     line-height: 19.07px;
     color: #86878B;
-    margin: 2px 0 2px 0;
     display: flex;
     justify-content: center;
     align-items: center;
+    margin: 2px 0;
+}
+ul{
+    padding: 0;
 }
