@@ -1,0 +1,45 @@
+.axure{
+    background-color: black;
+    background-image: url(/icon/background__axure.png);
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.axure_header {
+    text-align: center;
+    font-size: 36px;
+    line-height: 42.26px;
+    color: white;
+    font-weight: 400;
+    font-family: 'Raleway', sans-serif;
+    font-style: normal;
+    padding-top: 80px;
+}
+.axure_header_line {
+    border-top: 1px solid white;
+    width: 64px;
+    display: block;
+    text-align: center;
+    margin: auto;
+}
+.axure_subheader {
+    text-align: center;
+    font-size: 16px;
+    color: white;
+    font-weight: 300;
+    margin-top: 34px;
+    font-family: 'Raleway', sans-serif;
+}
+a {
+    border: 2px solid white;
+    text-decoration: none;
+    padding: 11px 26px;
+    width: 135px;
+    text-align: center;
+    font-size: 15px;
+    color: white;
+    font-weight: 600;
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 57px;
+}
