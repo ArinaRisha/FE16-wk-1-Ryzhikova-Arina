@@ -1,0 +1,30 @@
+@import url(awesome.css);
+
+@import url(pricing.css);
+
+@import url(customers.css);
+
+@import url(axure.css);
+
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.awesome {
+    max-width: 1170px;
+    margin: auto;
+}
+.pricing {
+    max-width: 1170px;
+    margin: auto;
+}
+.customers {
+    max-width: 1170px;
+    margin: auto;
+}
+.axure {
+    max-width: 1170px;
+    margin: auto;
+    height: 326px;
+}

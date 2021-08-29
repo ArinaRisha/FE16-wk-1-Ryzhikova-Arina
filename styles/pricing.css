@@ -1,0 +1,103 @@
+.pricing {
+    background-color: #E5E5E5;
+}
+.pricing_header {
+    text-align: center;
+    font-size: 36px;
+    line-height: 42.26px;
+    font-weight: 400;
+    font-family: 'Raleway', sans-serif;
+    font-style: normal;
+    padding-top: 80px;
+}
+.pricing_header_line {
+    border-top: 1px solid #D98943;
+    width: 64px;
+    display: block;
+    text-align: center;
+    margin: auto;
+}
+.pricing_subheader {
+    text-align: center;
+    font-size: 14px;
+    color:  #86878B;
+    font-weight: 400;
+    margin-top: 34px;
+    font-family: 'Open Sans', sans-serif;
+}
+.flex_container{
+    display: flex;
+    height: 469px;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 63px;
+}
+.flex_item{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: space-evenly;
+    height: 467px;
+    width: 340px;
+}
+.flex_item_option{
+    height: 50px;
+    background-color: #333;
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 27.24px;
+    color: white;
+    margin: 2px 0 2px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.flex_item_price{
+    height: 100px;
+    background-color: #333;
+    font-family: 'Raleway', sans-serif;
+    font-style: normal;
+    font-size: 35px;
+    font-weight: 700;
+    line-height: 41.09px;
+    color: white;
+    margin: 2px 0 2px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.flex_item_free{
+    height: 50px;
+    background-color: #333;
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 19.07px;
+    color: white;
+    margin: 2px 0 2px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.flex_item_1gb{
+    width: 340px;
+    height: 40px;
+    background-color: white;
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 19.07px;
+    color: #86878B;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 2px 0;
+}
+ul{
+    padding: 0;
+    margin: 0;
+}
