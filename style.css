@@ -4,20 +4,26 @@
 
 @import url(customers.css);
 
+@import url(axure.css);
+
 body{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
-.container {
+.awesome {
     max-width: 1170px;
     margin: auto;
 }
-.container2 {
+.pricing {
     max-width: 1170px;
     margin: auto;
 }
-.container3 {
+.customers {
+    max-width: 1170px;
+    margin: auto;
+}
+.axure {
     max-width: 1170px;
     margin: auto;
 }
